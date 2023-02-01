@@ -1,3 +1,3 @@
 # lab_2023
+курс лабораторных по phyton мфти 
 
-changed branch to dev_1
